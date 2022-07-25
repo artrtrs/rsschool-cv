@@ -1,11 +1,11 @@
-##Artur Rakhmatullin
+## Artur Rakhmatullin
 *****
 
-####SAP & IBM Consultant ---> Software Engineer (Frontend Developer)
+#### SAP & IBM Consultant ---> Software Engineer (Frontend Developer)
 
 *****
 
-####About me
+#### About me
   
   I strongly believe in mankind. I dream to put all my experience to make our world better for all. I decided to become a Software Engineer to achieve these goals. Having 6+ experience in implementation SAP & IBM analytical products I know genuienly what big IT projects are and want to use this experince in Web-development. 
 * Location: Moscow, Russian Federation
@@ -14,7 +14,7 @@
 
 *****
 
-####Expertise
+#### Expertise
 * SQL
 * Planning and analysis (IBM Cognos TM1)
 * Dashboards and reporting (IBM Cognos BI)
@@ -26,5 +26,5 @@
 
 *****
 
-####Experience
+#### Experience
 
