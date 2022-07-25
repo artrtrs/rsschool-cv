@@ -15,10 +15,10 @@
 *****
 
 #### Expertise
-* SQL
-* Planning and analysis (IBM Cognos TM1)
+* Planning and analysis (IBM Planning Analytics)
 * Dashboards and reporting (IBM Cognos BI)
 * Data warehousing (SAP BW4HANA)
+* SQL
 * Python
 * HTML, CSS and Javascript
 * GitHub
@@ -28,3 +28,25 @@
 
 #### Experience
 
+Years | Description
+---------------|----------------
+2020 - present | Polyus, senior developer at complex financial reporting system based on SAP BW4HANA, IBM Planning Analytics
+2018 - 2020    | NefteTransServis, senior developer at complex financial reporting system based on IBM Planning Analytics, MS SQL Server
+2016 - 2018    | Croc Inc., consultant at reporting, dashboarding and data warehousing
+
+*****
+
+#### Education
+
+Years | Description
+---------------|----------------
+2022 - present | RS School, Software Engineer (Frontend development)
+2019 - 2021    | Higher School of Economics (National Research University), Institute of professional retraining, program – Financial management
+2010 - 2015    | Lobachevsky State University of Nizhny Novgorod (National Research University), faculty of computational mathematics and cybernetics, specialization – applied mathematics and informatic
+
+*****
+
+#### Languages
+
+* Russian - native
+* English - advanced (C1 according to EF Test)
