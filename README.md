@@ -1,2 +1,1 @@
-# rsschool-cv
-Homework task RSschool CV
+https://artrtrs.github.io/rsschool-cv/
