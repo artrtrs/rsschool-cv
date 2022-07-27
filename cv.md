@@ -20,7 +20,7 @@
 * Dashboards and reporting (IBM Cognos BI)
 * Data warehousing (SAP BW4HANA)
 * SQL
-* Python
+* Python, C++
 * HTML, CSS and Javascript
 * GitHub
 * VS Code
