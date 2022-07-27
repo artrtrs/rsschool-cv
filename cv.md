@@ -9,8 +9,9 @@
   
   I strongly believe in mankind. I dream to put all my experience to make our world better for all. I decided to become a Software Engineer to achieve these goals. Having 6+ experience in implementation SAP & IBM analytical products I know genuienly what big IT projects are and want to use this experince in Web-development. 
 * Location: Moscow, Russian Federation
-* Phone number: +7 (903) 626-75-29 
-* e-mail: rakhmatullin.arthur@gmail.com 
+* Phone number: +7 (903) 626-75-29
+* e-mail: rakhmatullin.arthur@gmail.com
+* [LinkedIn](https://www.linkedin.com/in/artur-rakhmatullin-13391912a)
 
 *****
 
@@ -30,9 +31,9 @@
 
 Years | Description
 ---------------|----------------
-2020 - present | Polyus, senior developer at complex financial reporting system based on SAP BW4HANA, IBM Planning Analytics
-2018 - 2020    | NefteTransServis, senior developer at complex financial reporting system based on IBM Planning Analytics, MS SQL Server
-2016 - 2018    | Croc Inc., consultant at reporting, dashboarding and data warehousing
+2020 - present | Polyus, senior developer, complex financial reporting system based on SAP BW4HANA, IBM Planning Analytics
+2018 - 2020    | NefteTransServis, senior developer, complex financial reporting system based on IBM Planning Analytics, MS SQL Server
+2016 - 2018    | Croc Inc., consultant, reporting, dashboarding and data warehousing
 
 *****
 
